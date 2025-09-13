@@ -1,4 +1,6 @@
 # ubiquitous-pancake-romnum-converter
+OG made primitively on my school Chromebook. On Windows 10P X64, I made it better. here's the latest scoop:
+JS and HTML, using the MVP CSS.
 Converts romnums to arabics with a teacher.
 full:
 🏛 Roman Numeral Converter — Current Feature Set
